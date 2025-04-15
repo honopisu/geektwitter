@@ -1,2 +1,7 @@
 class HelloController < ApplicationController
-end
+    #追加する箇所
+    def index
+    end
+    #ここまで
+  end
+  
